@@ -1,0 +1,5 @@
+{
+    "port": 3333,
+    "db": "mongodb+srv://kyrsanter:sjialDUDNtndaI2h@cluster0-vcrx1.mongodb.net/schedule",
+    "jwtSecret": "this_is_a_very_secret_string"
+}
